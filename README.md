@@ -117,6 +117,7 @@ These slicers allow dynamic exploration of the dashboard.
 
 **Vivek Khorate**  
 📧 Aspiring Data Analyst / Business Intelligence Analyst  
+🔗 Live Demo: *(https://app.powerbi.com/view?r=eyJrIjoiMWJjNjgzOTUtYzcwZS00NWY2LWFjYmEtOWFmMTg2MjBjNTRiIiwidCI6IjcwNjJiZWJiLWIxOGEtNDZlMi05MjhmLTQyZDJkMTMzMTI3ZSJ9)*  
 🔗 LinkedIn: *(https://www.linkedin.com/in/vivek-khorate-329b25296/)*  
 
 ---
